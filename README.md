@@ -12,7 +12,9 @@
 
 [Avance1_PIA_Equipo5] (https://github.com/EdsonGzz/mineriaDdatos/blob/main/Avance1_PIA_Equipo5.ipynb)
 
-[Presentación_Máquina de soporte vectorial_5] (https://github.com/AnakarenSegovia/Mineriadatos/blob/main/Presentaci%C3%B3n_M%C3%A1quina%20de%20soporte%20vectorial_5.pdf)
+[Presentación_Máquina de soporte vectorial_5] (https://github.com/AnakarenSegovia/Mineriadatos/blob/main/Presentación_Máquina%20de%20soporte%20vectorial_05.pdf)
+
+[Mini examenes] (https://github.com/AnakarenSegovia/Mineriadatos/blob/main/Calificación_Máquinas-de-soporte-vectorial_05.pdf)
 
 ## FASE II
 
