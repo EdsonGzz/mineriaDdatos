@@ -18,5 +18,6 @@
 
 [Mini examenes] (https://github.com/AnakarenSegovia/Mineriadatos/blob/main/Calificación_Máquinas-de-soporte-vectorial_05.pdf)
 
+[Mapa Mental 2] (https://github.com/EdsonGzz/mineriaDdatos/blob/main/MapaMental_2_1595894.pdf)
 
 ## FASE III
