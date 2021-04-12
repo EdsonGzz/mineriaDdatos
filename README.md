@@ -14,7 +14,7 @@
 
 
 ## FASE II
-[Presentación_Máquina de soporte vectorial_5]https://github.com/AnakarenSegovia/Mineriadatos/blob/main/Presentación_Máquina%20de%20soporte%20vectorial_05.pdf)
+[Presentación_Máquina de soporte vectorial_5](https://github.com/AnakarenSegovia/Mineriadatos/blob/main/Presentación_Máquina%20de%20soporte%20vectorial_05.pdf)
 
 [Mini examenes](https://github.com/AnakarenSegovia/Mineriadatos/blob/main/Calificación_Máquinas-de-soporte-vectorial_05.pdf)
 
