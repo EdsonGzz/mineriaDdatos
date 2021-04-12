@@ -20,6 +20,6 @@
 
 [Mapa Mental 2] (https://github.com/EdsonGzz/mineriaDdatos/blob/main/MapaMental_2_1595894.pdf)
 
-### Ejercicio de Visualización Base secundaria {https://github.com/EdsonGzz/mineriaDdatos/blob/main/Visualizacion_Equipo5%20(1).pdf}
+[Ejercicio de Visualización Base secundaria] (https://github.com/EdsonGzz/mineriaDdatos/blob/main/Visualizacion_Equipo5%20(1).pdf)
 
 ## FASE III
