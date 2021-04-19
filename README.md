@@ -24,6 +24,6 @@
 
 [Ejercicio de Visualización Base secundaria](https://github.com/EdsonGzz/mineriaDdatos/blob/main/Visualizacion_Equipo5%20(1).pdf)
 
-[Avance del PIA II](https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/%20AvancePIA_II_Grupo003_Equipo5.ipynb)
+[Avance del PIA II CORREGIDO](https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/%20AvancePIA_II_Grupo003_Equipo5Corregido.ipynb)
 
 ## FASE III
