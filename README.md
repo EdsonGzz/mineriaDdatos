@@ -27,3 +27,4 @@
 [Avance del PIA II CORREGIDO](https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/%20AvancePIA_II_Grupo003_Equipo5Corregido.ipynb)
 
 ## FASE III
+[Póster](https://github.com/JenniferHerrera21/MineriaDeDatos003/blob/main/Poster_Mineria%20(4).pdf)
